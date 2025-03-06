@@ -1,7 +1,7 @@
 import click  # to create a cli
 import json   # to save and load tasks from a file 
 import os     # to check if the fil exits 
-import emoji
+
 
 TODO_FILE = "todo.json"
 
