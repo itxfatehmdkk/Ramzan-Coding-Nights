@@ -1,9 +1,25 @@
 [project]
+<<<<<<< HEAD
 name = "unit-converter"
+=======
+<<<<<<< HEAD
+name = "todo-cli"
+=======
+name = "unit-converter"
+>>>>>>> 6c19231 (Initial commit)
+>>>>>>> f8dd2395fd1693628edaba2fa0f70922d35393e3
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+<<<<<<< HEAD
     "streamlit>=1.42.2",
+=======
+<<<<<<< HEAD
+    "click>=8.1.8",
+=======
+    "streamlit>=1.42.2",
+>>>>>>> 6c19231 (Initial commit)
+>>>>>>> f8dd2395fd1693628edaba2fa0f70922d35393e3
 ]
