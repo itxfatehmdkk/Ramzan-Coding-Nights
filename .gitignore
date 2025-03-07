@@ -1,0 +1,21 @@
+node_modules/
+.env
+*.log
+.DS_Store
+
+# Build outputs
+dist/
+build/
+out/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# npm/yarn files
+package-lock.json
+yarn.lock
+
+# Remove nested git repositories
+*/.git/
